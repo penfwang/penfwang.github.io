@@ -14,7 +14,7 @@
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Feature Clustering-Assisted Feature Selection with Differential Evolution”. Submitted to Pattern Recognition (under revise and resubmit), 2023.
 
-Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang, Feature Selection Using Diversity-Based Multi-objective Binary Differential Evolution, Information Sciences, vol. 626, pp. 586-606, 2023.[PDF](https://doi.org/10.1016/j.ins.2022.12.117)[CODE](https://github.com/penfwang/Inf_Sci_MODE)
+Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang, Feature Selection Using Diversity-Based Multi-objective Binary Differential Evolution, Information Sciences, vol. 626, pp. 586-606, 2023.[PDF](https://doi.org/10.1016/j.ins.2022.12.117) and [CODE](https://github.com/penfwang/Inf_Sci_MODE).
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Differential Evolution with Duplication Analysis for Feature Selection in Classification”. IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2022.32
 13236, 14pp, 2022.
