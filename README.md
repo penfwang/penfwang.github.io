@@ -26,7 +26,12 @@ Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Multiobjective Differential E
 
 ## Conferences
 
-An in-depth paragraph about your project and overview of use.
+Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “A Grid-dominance based Multi-objective Algorithm for Feature Selection in Classification”. IEEE Congress on Evolutionary Computation (CEC). IEEE, 2021. pp. 2053-2060.
+
+
+Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Improved Crowding Distance in Multi-objective Optimization for Feature Selection in Classification”. International Conference on the Applications of Evolutionary Computation (Part of EvoStar). Springer, Cham, 2021. pp. 489-505.
+
+Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. "Niching-Assisted Genetic Programming for Finding Multiple High-Quality Classifiers." In AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, Perth, WA, Australia, December 5–8, 2022, Proceedings (pp. 279-293). Cham: Springer International Publishing.
 
 ## Getting Started
 
