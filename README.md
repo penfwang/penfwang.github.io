@@ -9,11 +9,13 @@
        alt="snake" /></a>
 </div>
 
-# Project Title
+# Publications
 
-Simple overview of use/purpose.
+## Journals
 
-## Description
+An in-depth paragraph about your project and overview of use.
+
+## Conferences
 
 An in-depth paragraph about your project and overview of use.
 
