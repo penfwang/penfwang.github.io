@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Peng Wang</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Peng from China</h1>
 <h4 align="center">a Postdoc Research Fellow at Victoria University of Wellington</h4>
 </div>
 
@@ -12,7 +12,7 @@
 # Publications
 ## Journals
 
-Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Feature Clustering-Assisted Feature Selection with Differential Evolution”. Submitted to Pattern Recognition (under revise and resubmit), 2023.
+Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Feature Clustering-Assisted Feature Selection with Differential Evolution”. Submitted to Pattern Recognition (under minior revision), 2023.
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang, Feature Selection Using Diversity-Based Multi-objective Binary Differential Evolution, Information Sciences, vol. 626, pp. 586-606, 2023.[PDF](https://doi.org/10.1016/j.ins.2022.12.117) and [CODE](https://github.com/penfwang/Inf_Sci_MODE).
 
@@ -31,50 +31,13 @@ Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Improved Crowding Distance in
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. "Niching-Assisted Genetic Programming for Finding Multiple High-Quality Classifiers." In AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, Perth, WA, Australia, December 5–8, 2022, Proceedings (pp. 279-293). Cham: Springer International Publishing.
 
-## Getting Started
+# Activities
 
-### Dependencies
+## Conferences and events
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
