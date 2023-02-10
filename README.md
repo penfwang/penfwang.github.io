@@ -55,10 +55,9 @@ Responsible for daily business data statistics, and produce routine business dat
 
 * [IEEE Transaction on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
 * [IEEE Transaction on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
-* [IEEE Transactions on Emerging Topics in Computational Intelligence]
-* [Memetic Computing]
-* [Information Sciences]
-* [Applied Soft Computing]
+* [IEEE Transactions on Emerging Topics in Computational Intelligence](https://cis.ieee.org/publications/t-emerging-topics-in-ci)
+* [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
+* [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 
 ## Conferneces involved
 
