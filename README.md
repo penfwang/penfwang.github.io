@@ -41,7 +41,6 @@ Liang Jing, Wang Peng, Yue Caitong, et al. Multi-objective brainstorm optimizati
 ## Conferences and events
 
 
-
 ## Work experience
 03/2021 - 07/2021 As the tutor of Control Systems Engineering (315) for Bachelor students;
 School of Engineering and Computer Science (Teaching Fellow: Jimmi Rosa), Victoria University of Wellington.
@@ -51,6 +50,22 @@ School of Engineering and Computer Science (Teaching Fellow: Andrew Lensen, Marc
 
 06/2019 - 08/2019 Internship, Department of Data Banking in Zhongyuan Bank;
 Responsible for daily business data statistics, and produce routine business data reports by using SQL, including user analysis, operation analysis, product analysis, and in-depth special analysis of key projects.
+
+## Journal Reviews
+
+IEEE Transaction on Evolutionary Computation
+IEEE Transaction on Cybernetics
+IEEE Transactions on Emerging Topics in Computational Intelligence
+Memetic Computing
+Information Sciences
+Applied Soft Computing 
+
+# #Conferneces involved
+
+IEEE Congress on Evolutionary Computation (CEC)
+The Genetic and Evolutionary Computation Conference (GECCO)
+International Conference on the Applications of Evolutionary Computation
+Australasian Joint Conference on Artifical Intelligence
 
 
 ## Acknowledgments
