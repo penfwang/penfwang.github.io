@@ -54,17 +54,25 @@ Responsible for daily business data statistics, and produce routine business dat
 ## Journal Reviews
 
 IEEE Transaction on Evolutionary Computation
+
 IEEE Transaction on Cybernetics
+
 IEEE Transactions on Emerging Topics in Computational Intelligence
+
 Memetic Computing
+
 Information Sciences
+
 Applied Soft Computing 
 
-# #Conferneces involved
+## Conferneces involved
 
 IEEE Congress on Evolutionary Computation (CEC)
+
 The Genetic and Evolutionary Computation Conference (GECCO)
+
 International Conference on the Applications of Evolutionary Computation
+
 Australasian Joint Conference on Artifical Intelligence
 
 
