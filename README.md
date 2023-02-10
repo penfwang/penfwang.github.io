@@ -22,6 +22,9 @@ Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Differential Evolution Based 
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Multiobjective Differential Evolution for Feature Selection in Classification”. IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2021.3128540, 15pp, 2021.[PDF](https://doi.org/10.1109/TCYB.2021.3128540).
 
+Liang Jing, Wang Peng, Guo Li, et al. Multi-objective flow shop scheduling with limited buffers using hybrid self-adaptive differential evolution. Memetic Computing, 2019, 11(4): 407-422.
+
+
 ## Conferences
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “A Grid-dominance based Multi-objective Algorithm for Feature Selection in Classification”. IEEE Congress on Evolutionary Computation (CEC). IEEE, 2021. pp. 2053-2060.
@@ -30,6 +33,8 @@ Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “A Grid-dominance based Multi-
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Improved Crowding Distance in Multi-objective Optimization for Feature Selection in Classification”. International Conference on the Applications of Evolutionary Computation (Part of EvoStar). Springer, Cham, 2021. pp. 489-505.
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. "Niching-Assisted Genetic Programming for Finding Multiple High-Quality Classifiers." In AI 2022: Advances in Artificial Intelligence: 35th Australasian Joint Conference, Perth, WA, Australia, December 5–8, 2022, Proceedings (pp. 279-293). Cham: Springer International Publishing.
+
+Liang Jing, Wang Peng, Yue Caitong, et al. Multi-objective brainstorm optimization algorithm for sparse optimization. IEEE Congress on Evolutionary Computation (CEC). IEEE, 2018: 1-8.
 
 # Activities
 
