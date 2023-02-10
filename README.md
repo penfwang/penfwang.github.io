@@ -42,7 +42,27 @@ Liang Jing, Wang Peng, Yue Caitong, et al. Multi-objective brainstorm optimizati
 
 
 
-## Help
+
+## Work experience
+
+{03/2021 - 07/2021}
+{Tutor | Bachelor students}
+{School of Engineering and Computer Science (Teaching Fellow: Jimmi Rosa)\newline Victoria University of Wellington}
+{As the tutor of Control Systems Engineering (315) and  in Victoria University of Wellington.}
+
+	
+{07/2021 - 11/2021}
+	{Tutor | Master students}
+	{School of Engineering and Computer Science (Teaching Fellow: Andrew Lensen, Marcus Frean, and Qi Chen)\newline Victoria University of Wellington}
+	{As the tutor of Machine Learning Tools and Techniques (309) and  in Victoria University of Wellington.}
+
+	
+
+{06/2019 - 08/2019}
+	{Internship}
+	{Department of Data Banking in Zhongyuan Bank}
+	{Responsible for daily business data statistics, and produce routine business data reports by using SQL, including user analysis, operation analysis, product analysis, and in-depth special analysis of key projects.}
+
 
 ## Acknowledgments
 
