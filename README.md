@@ -53,8 +53,8 @@ Responsible for daily business data statistics, and produce routine business dat
 
 ## Journal Reviews
 
-*[IEEE Transaction on Evolutionary Computation]
-*[IEEE Transaction on Cybernetics]
+*[IEEE Transaction on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
+*[IEEE Transaction on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
 *[IEEE Transactions on Emerging Topics in Computational Intelligence]
 *[Memetic Computing]
 *[Information Sciences]
