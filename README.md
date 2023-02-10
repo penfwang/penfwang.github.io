@@ -22,7 +22,7 @@ Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Differential Evolution Based 
 
 Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Multiobjective Differential Evolution for Feature Selection in Classification”. IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2021.3128540, 15pp, 2021.[PDF](https://doi.org/10.1109/TCYB.2021.3128540).
 
-Liang Jing, Wang Peng, Guo Li, et al. Multi-objective flow shop scheduling with limited buffers using hybrid self-adaptive differential evolution. Memetic Computing, 2019, 11(4): 407-422.
+Liang Jing, Wang Peng, Guo Li, et al. Multi-objective flow shop scheduling with limited buffers using hybrid self-adaptive differential evolution. Memetic Computing, 2019, 11(4): 407-422.[PDF](https://doi.org/10.1007/s12293-019-00290-5).
 
 
 ## Conferences
