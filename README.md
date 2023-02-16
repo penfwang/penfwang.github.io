@@ -61,7 +61,7 @@ Responsible for daily business data statistics, and produce routine business dat
 * [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 * [Memetic Computing](https://www.springer.com/journal/12293)
 
-## Conferneces involved
+## Conferneces Involved
 
 * [IEEE Congress on Evolutionary Computation (CEC)]
 * [The Genetic and Evolutionary Computation Conference (GECCO)]
