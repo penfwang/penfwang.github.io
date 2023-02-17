@@ -18,7 +18,7 @@
 
 * Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Differential Evolution with Duplication Analysis for Feature Selection in Classification”. IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2022.3213236, 14pp, 2022.[PDF](https://doi.org/10.1109/TCYB.2022.3213236.) and [CODE](https://github.com/penfwang/NDEDA_CYB).
 
-* Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Differential Evolution Based Feature Selection: A Niching-based Multi-objective Approach”. IEEE Transactions on Evolutionary Computation, DOI: 10.1109/TEVC.2022.3168052. 15pp, 2022.[PDF](https://doi.org/10.1109/TEVC.2022.3168052) and [CODE](https://github.com/penfwang/NMDE).
+* Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Differential Evolution Based Feature Selection: A Niching-based Multi-objective Approach”. IEEE Transactions on Evolutionary Computation, DOI: 10.1109/TEVC.2022.3168052. 15pp, 2022.[PDF](https://doi.org/10.1109/TEVC.2022.3168052) and [CODE](https://github.com/penfwang/NMDE). You can find more explanation on this paper [here](https://mp.weixin.qq.com/s/tsw6qfbD3gtBtCF71gVLuA).
 
 * Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Multiobjective Differential Evolution for Feature Selection in Classification”. IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2021.3128540, 15pp, 2021.[PDF](https://doi.org/10.1109/TCYB.2021.3128540).
 
