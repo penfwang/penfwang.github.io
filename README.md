@@ -1,6 +1,9 @@
 # About Mydelf
 
-
+---
+- 🔭 I’m currently working on Feature Selection, Evolutionary Computation, and Evolutionary Multiple Optimization.
+- 📫 How to reach me **WANGPENG@ECS.VUW.AC.NZ**
+---
 
 
 
