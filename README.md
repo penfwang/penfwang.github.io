@@ -70,12 +70,10 @@ Responsible for daily business data statistics, and produce routine business dat
 
 # You May Interest in Those Githubs
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Hengzhe Zhang](https://github.com/hengzhe-zhang)
+* [Ying Bi](https://github.com/YingBi92)
+* [Fangfang Zhang](https://github.com/fangfang-zhang)
+* [Ruwang Jiao](https://github.com/RuwangJiao)
 
 
 <br />
