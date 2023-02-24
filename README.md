@@ -1,6 +1,6 @@
 # About Mydelf
 ---
-- 🔭 I’m currently working on using Evolutionary Computation including Evolutionary Multiple Optimization for Dimension Reduction, e.g., Feature Selection/Construction.
+- 🔭 I’m currently working on using Evolutionary Computation including Evolutionary Multi-Objective Optimization for Dimension Reduction, e.g., Feature Selection/Construction.
 - 📫 How to reach me **WANGPENG@ECS.VUW.AC.NZ**
 ---
 
