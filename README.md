@@ -60,7 +60,8 @@ Responsible for daily business data statistics, and produce routine business dat
 * IEEE Congress on Evolutionary Computation (CEC)
 * The Genetic and Evolutionary Computation Conference (GECCO)
 * International Conference on the Applications of Evolutionary Computation
-* Australasian Joint Conference on Artifical Intelligence
+* Australasian Joint Conference on Artifical Intelligence (AJCAI)
+* IEEE Symposium Series on Computational Intelligence (SSCI)
 
 
 # You May Interest in Those Githubs
