@@ -7,7 +7,7 @@
 # Publications
 ## Journals
 
-* Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Feature Clustering-Assisted Feature Selection with Differential Evolution”. Submitted to Pattern Recognition (under minior revision), 2023.
+* Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang. “Feature Clustering-Assisted Feature Selection with Differential Evolution”. Pattern Recognition, 2023: 109523.[PDF](https://www.sciencedirect.com/science/article/pii/S0031320323002236) and [CODE](https://github.com/penfwang/FCNDE_PR).
 
 * Peng Wang, Bing Xue, Jing Liang, Mengjie Zhang, Feature Selection Using Diversity-Based Multi-objective Binary Differential Evolution, Information Sciences, vol. 626, pp. 586-606, 2023.[PDF](https://doi.org/10.1016/j.ins.2022.12.117) and [CODE](https://github.com/penfwang/Inf_Sci_MODE).
 
@@ -54,7 +54,7 @@ Responsible for daily business data statistics, and produce routine business dat
 * [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
 * [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 * [Memetic Computing](https://www.springer.com/journal/12293)
-* [Expert Systems With Applications] (https://www.sciencedirect.com/journal/expert-systems-with-applications)
+* [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 * [Complex & Intelligent Systems](https://www.springer.com/journal/40747/?gclid=CjwKCAjwrJ-hBhB7EiwAuyBVXbFyeugWfYLJoa3jRP7lUEDTGt7ohf3AetjPEqZBxP6GEiV_ROdd3BoCr6cQAvD_BwE)
 * [Journal of Membrane Computing (JMC)](https://www.springer.com/journal/41965)
 
