@@ -54,6 +54,7 @@ Responsible for daily business data statistics, and produce routine business dat
 * [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
 * [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 * [Memetic Computing](https://www.springer.com/journal/12293)
+* [Complex & Intelligent Systems](https://www.springer.com/journal/40747/?gclid=CjwKCAjwrJ-hBhB7EiwAuyBVXbFyeugWfYLJoa3jRP7lUEDTGt7ohf3AetjPEqZBxP6GEiV_ROdd3BoCr6cQAvD_BwE)
 
 ## Conferneces Involved
 
